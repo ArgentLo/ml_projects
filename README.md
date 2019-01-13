@@ -7,5 +7,5 @@ Some Machine Learning Notes and Projects
 
   
 
-- To be add on:  Various Autoencoders with tf, CNN / RNN / Reinforcement Learning with Computational Graph (other than Eager_Execution).
+- To be added on:  Various Autoencoders with tf, CNN / RNN / Reinforcement Learning with Computational Graph (other than Eager_Execution).
 
